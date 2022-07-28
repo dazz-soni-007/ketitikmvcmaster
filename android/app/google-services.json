@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1009549877952",
+    "project_id": "ketitik-a4e98",
+    "storage_bucket": "ketitik-a4e98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009549877952:android:d926a31e70de134593c325",
+        "android_client_info": {
+          "package_name": "com.app.ketitik.ketitik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009549877952-ia3fhecmm4l2pqj8obf61clbvgfbdgkp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.ketitik.ketitik",
+            "certificate_hash": "f87a91e8d50c1de00f272395850a6a8c110f63c4"
+          }
+        },
+        {
+          "client_id": "1009549877952-klcc0evnh2kg9o4n22hgsuh7b2ohg0ga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.ketitik.ketitik",
+            "certificate_hash": "36b5042c1573f44bc9fa6d847928b685becef009"
+          }
+        },
+        {
+          "client_id": "1009549877952-t8m8o6q196q5u7pahobv669r9m1dlt74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.ketitik.ketitik",
+            "certificate_hash": "54cc9ac71cefdd454793f9102daaa9f13b423ad3"
+          }
+        },
+        {
+          "client_id": "1009549877952-vje7lme90tk0loi831b57pmglh3p3ob4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGUyPVuZjrqSkSKy_jiJoGU_96eNNVpro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009549877952-vje7lme90tk0loi831b57pmglh3p3ob4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

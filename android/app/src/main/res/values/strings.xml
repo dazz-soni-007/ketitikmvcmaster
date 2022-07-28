@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="facebook_app_id">1583382825388099</string>
+<string name="fb_login_protocol_scheme">fb1583382825388099</string>
+<string name="facebook_client_token">1208fe12fe7bb9230daeed169b13976f</string>
+<string name="app_name">ketitik</string>
+<string name="default_notification_channel_id">com.app.ketitik.ketitik</string>
+</resources>
+
